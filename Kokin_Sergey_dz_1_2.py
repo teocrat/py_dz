@@ -25,7 +25,7 @@ for count_2 in range(len(my_list_1)):
         b = b // 10
 
     if dig_1 % 7 == 0:
-            sum_list_1.append(my_list[count_2])
+            sum_list_1.append(my_list_1[count_2])
 
 result_1 = 0
 for count_3 in sum_list:
