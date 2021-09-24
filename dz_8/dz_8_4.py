@@ -26,4 +26,4 @@ if __name__ in '__main__':
     print(help(calc_cube))
     calc_cube(5)
     calc_cube(-5)
-    print(help(calc_cube))
+    
