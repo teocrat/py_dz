@@ -52,7 +52,7 @@ car = Car('Lexus', 'red')
 town_car = TownCar('Renault', 'yellow')
 sport_car = SportCar('Ferrary', 'violet')
 work_car = WorkCar('Man', 'orange')
-police_car = PoliceCar('Ford', 'back')
+police_car = PoliceCar('Ford', 'black')
 
 cars = [car, town_car, sport_car, work_car, police_car]
 
